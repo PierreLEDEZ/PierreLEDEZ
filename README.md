@@ -38,5 +38,5 @@
 <sub>
   <a href="https://linkedin.com/in/pierre-le-dez/">LinkedIn</a> · 
   <a href="mailto:p5ledez@gmail.com">Email</a> · 
-  <a href="https://pierrledez.github.io">Portfolio</a>
+  <a href="https://pierreledez.github.io">Portfolio</a>
 </sub>
