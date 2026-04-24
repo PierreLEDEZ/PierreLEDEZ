@@ -28,9 +28,9 @@
 
 ### En ce moment
 
-- 🔭 Ingénieur logiciel chez **Siradel** — solutions SIG, dashboards, IA
-- 🧠 Plateforme d'analyse sémantique de documents d'urbanisme
-- 🌱 Transition Keras → PyTorch, exploration Rust & Go
+- Ingénieur logiciel chez **Siradel** — solutions SIG, dashboards, IA
+- Plateforme d'analyse sémantique de documents d'urbanisme
+- Transition Keras → PyTorch, exploration Rust & Go
 - 📍 Bretagne, France
 
 ---
